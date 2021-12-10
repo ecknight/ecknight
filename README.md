@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an applied ecologist interested in how environmental variation across temporal and spatial scales affects the ecology and population trends of wide-ranging species. My motivation in understanding that variation is to inform when and where wildlife conservation efforts will be most effective. I am currently a PhD Candidate in [Biological Sciences at the University of Alberta](https://www.ualberta.ca/biological-sciences/) working with Erin Bayne and Mark Brigham.
+I am an applied ecologist interested in how environmental variation across temporal and spatial scales affects the ecology and population trends of wide-ranging species. My motivation in understanding that variation is to inform when and where wildlife conservation efforts will be most effective. I am currently a Postdoctoral Fellow at the [Smithsonian Migratory Bird Center](https://nationalzoo.si.edu/migratory-birds).
 
 
 
